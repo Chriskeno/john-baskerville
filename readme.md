@@ -18,7 +18,7 @@ John Baskerville
 <p><strong>Baskerville</strong> is a Transitional serif typeface designed by John Baskerville in 1757, positioned between the Old Style typefaces of <em>William Caslon</em>, and the modern styles of <em>Giambattista Bodoni</em> and <em>Firmin Didot.</em></p>
 <p>The typeface is the result of Baskerville's intent to improve upon the types of William Caslon. He increased the contrast between thick and thin strokes, making the serifs sharper and more tapered, and shifted the axis of rounded letters to a more vertical position. The curved strokes are more circular in shape, and the characters became more regular. These changes created a greater consistency in size and form.</p>
 <p>Baskerville's work was criticized by jealous competitors and soon fell out of favour. Since the 1920s, however, numerous revivals of Baskerville have been released by Linotype, Monotype, and other type foundries. emigre released a popular revival of the typeface in 1996 called Mrs Eaves, named for Baskerville’s wife, Sarah Eaves. Baskerville represents the peak of Transitional type face design and bridges the gap between Old Style and Modern type design.</p>
-    </section>
+</section>
 <section>
     <h2>Mrs Eaves</h2>
     <p>Mrs Eaves is named after Sarah Eaves, the woman who became John Baskerville's wife. As Baskerville was setting up his printing and type business, Mrs. Eaves moved in with him as a live-in housekeeper, eventually becoming his wife after the death of her first husband, Mr. Eaves. Mrs Eaves is a revival of the types of English printer and punchcutter John Baskerville, and is related to contemporary Baskerville typefaces.</p>
