@@ -1,12 +1,10 @@
-<head>
+<body>
 <code>
 <section><h1>John Baskerville<h1></section>
-</head>
 
 <section><h2>Letter Founder and Master Printer</h2>
 <p>John Baskerville <em>(1706-1775)</em> was an English businessman whose entrepreneurial attentions included japanning and paper-mache; he is however, best remembered as a typographer and a printer, not least for the design of the eponymous fypeface which, to this day, bears his name.</p>
 </section>
-</header>
     
 <section><h2>The Man</h2>
 <p>Baskerville was born in the villiage of Wolverley, near Kidderminster, and worked as a printer in Birmingham. Baskerville printed works for the University of Cambridge and, although an atheist, printed a splendid filio bible in <em>1763</em>.His typefaces were greatly admired by Benjamin Franklin, a printer and fellow member of the Royal Society of Arts, who took the designs back to the newly-created United States, where they were adopted for most federal government publishing</p>
