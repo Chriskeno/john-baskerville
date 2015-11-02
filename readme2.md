@@ -1,8 +1,9 @@
-<body>
+<head>
 <code>
-<header>
-<section><h1>John Baskerville<h1>
-<h1>Letter Founder and Master Printer</h1>
+<section><h1>John Baskerville<h1></section>
+</head>
+
+<section><h2>Letter Founder and Master Printer</h2>
 <p>John Baskerville <em>(1706-1775)</em> was an English businessman whose entrepreneurial attentions included japanning and paper-mache; he is however, best remembered as a typographer and a printer, not least for the design of the eponymous fypeface which, to this day, bears his name.</p>
 </section>
 </header>
