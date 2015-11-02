@@ -25,8 +25,8 @@ John Baskerville
     <p>Like Baskerville, Mrs Eaves, cut by Zuzana Licko of Emigre, has a near vertical stress, departing from the Old Style model. Identifying characters, similar to Baskerville's types, are the lowercase g with its open lower counter and swashlike ear. Both the roman and italic uppercase Q have a flowing swashlike tail. The uppercase C has serifs at top and bottom; there is no serif at the apex of the central junction in uppercase W; and the uppercase G has a sharp spur suggesting a vestigial serif.</p>
 </section>
 <section>
-        <footer>
-        <p><small>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you're allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</small></p>
-        </footer>
-        </section>
+<footer>
+<p><small>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you're allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</small></p>
+     </footer>
+     </section>
     </code></body>
