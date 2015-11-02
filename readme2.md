@@ -5,4 +5,4 @@ Each week we willbuild on this project as we take ypu through HTML and CSS. This
 
 2nd November 2015
 
-+ [Version1](https://Chriskeno.github.io/john-baskerville/john_baskerville.html)
++ [Version1](https://Chriskeno.github.io/john-baskerville/john_baskerville.html) - John Baskerville
