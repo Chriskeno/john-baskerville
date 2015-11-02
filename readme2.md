@@ -5,4 +5,4 @@ Each week we willbuild on this project as we take ypu through HTML and CSS. This
 
 2nd November 2015
 
-+ [Version1] (https://github.com/Chriskeno/john-baskerville/blob/master/readme.md) 
++ [Version1] (https://github.com/Chriskeno/john-baskerville/master/readme.md)
