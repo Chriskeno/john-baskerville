@@ -1,9 +1,6 @@
-</head>
 <body>
     <code>
     <article>
-<title>John Baskerville</title>
-
 <header>
 
 <h1>John Baskerville<h1>
