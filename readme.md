@@ -27,6 +27,6 @@ John Baskerville
 <section>
 <footer>
 <p><small>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you're allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</small></p>
-     </footer>
-     </section>
-    </code></body>
+</footer></section>
+</code>
+</body>
