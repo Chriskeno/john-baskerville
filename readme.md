@@ -6,3 +6,7 @@ Each week we willbuild on this project as we take ypu through HTML and CSS. This
 2nd November 2015
 
 + [Version1](https://chriskeno.github.io/john-baskerville/john_baskerville_version1.html)
+
+9th November 2015
+
++ [Version2](https://chriskeno.github.io/john-baskerville/john_baskerville_version2.html)
