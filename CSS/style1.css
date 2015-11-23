@@ -14,7 +14,7 @@
           line-height: 1.8em;}    
           }
 
-section {padding: 1.2em 0 1.4em 0}
+section {padding: 1.2em 0 1.4em 0;}
 /* TYPOGRAPHY */
        
        h1, h2, h3
@@ -23,20 +23,76 @@ section {padding: 1.2em 0 1.4em 0}
           color: #000000;
           }
        
-           h1 {font-size: 3.375em;}
+           h1 {font-size: 3.375em;
+           line-height: 1.3em}
            h2 {font-size: 2.25em;}
            h3 {font-size: 1.5em;}
+
+header h2 {
+font-style: italic;
+font-size: 1.8em;
+margin: -0.5em 0 2em 0; }
+
        
        th {background-color: fff;}
 
        tr {background-color: whitesmoke;}
 
 .intro {
-        font-size: 1.5em;
+        font-size: 1.35em;
         line-height: 1.3em;
-        line-width: 75%;
-        padding: 1.6em 0 2em 0;
+        padding: 1.1em 0 1.1em 0;
        }
+
+.quote
+{border-left: 2px solid #333;
+    padding-left: 2em}
+
+
+cite {
+font-size: 0.8em;}
  
-        
+
+.anchor
+{text-transform: uppercase;
+font-size: .65em;
+}
+/* -------------------------- links --------------------------------- */
+a {
+color: blue;
+text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+a:hover {
+          color: blueviolet;
+          border-bottom: 1px dotted;
+        }
+
+/*--------------------- nav --------------------------------- */
+
+nav 
+{border-top: 1px solid #333;
+border-bottom:1px solid #333;}
+
+nav ul 
+{text-align: center;}
+
+nav ul li 
+{display: inline;
+margin: 20px;}
+
+/*----------------- footer --------------------------- */
+
+.bottomfooter
+{border-top: 1px solid #333;
+border-bottom: 1px solid #333;
+padding-bottom: 2em;   
+line-height: 1.2em;}
+
+/*-------------------my links -------------------- */
+.mylinks
+{
+font-size: .75em;]
   </style>
