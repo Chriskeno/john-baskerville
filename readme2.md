@@ -18,4 +18,10 @@ Each week we willbuild on this project as we take ypu through HTML and CSS. This
 16th November 2015
 
 + [Version 4](https://Chriskeno.github.io/john-baskerville/john_baskerville_version4.html)- added images
+ 
+23rd November 2015
+
++ [version 5](https://Chriskeno.github.io/john-baskerville/john_baskerville_version5.html)- added the first set of CSS rules 
+
+
 
