@@ -1,4 +1,4 @@
-<!--CSS -->
+/* CSS */
    <style>
       body
           {
@@ -13,6 +13,7 @@
           line-height: 1.8em;}    
           }
 
+section {padding: 2em 0 2em 0}
 /* TYPOGRAPHY */
        
        h1, h2, h3
@@ -26,11 +27,14 @@
            h3 {font-size: 1.5em;}
        
        th {background-color: fff;}
+
        tr {background-color: whitesmoke;}
 
- .intro {font-size: 1.5em;
+.intro {
+        font-size: 1.5em;
         line-height: 2em;
-     padding: 2em 0 2em 0}
+        padding: 2em 0 2em 0
+       }
  
         
   </style>
