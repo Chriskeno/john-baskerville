@@ -3,6 +3,8 @@ John Baskerville Project
 
 Each week we willbuild on this project as we take ypu through HTML and CSS. This exercise is part of the [IXD Belfast] (http://ixdbelfast.org) module - IXD101
 
+#Part 01 HTML
+
 2nd November 2015
 
 + [Version 1](https://Chriskeno.github.io/john-baskerville/john_baskerville_version1.html)- John Baskerville
@@ -20,6 +22,8 @@ Each week we willbuild on this project as we take ypu through HTML and CSS. This
 + [Version 4](https://Chriskeno.github.io/john-baskerville/john_baskerville_version4.html)- added images
  
 23rd November 2015
+
+#Part 02 CSS
 
 + [version 5](https://Chriskeno.github.io/john-baskerville/john_baskerville_version5.html)- added the first set of CSS rules 
 
