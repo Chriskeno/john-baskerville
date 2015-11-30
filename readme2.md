@@ -27,5 +27,9 @@ Each week we will build on this project as we take ypu through HTML and CSS. Thi
 
 + [version 5](https://Chriskeno.github.io/john-baskerville/john_baskerville_version5.html)- added the first set of CSS rules 
 
++ 30th November 2015
+
++ [version 6](https://Chriskeno.github.io/john-baskerville/john_baskerville_version6.html)- worked with CSS reset and restyled the Baskerville page
+
 
 
