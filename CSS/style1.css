@@ -1,6 +1,6 @@
 /* CSS */
 
-   <style>
+   <style> 
       body
           {
           width: 75%;
@@ -33,10 +33,18 @@ font-style: italic;
 font-size: 1.8em;
 margin: -0.5em 0 2em 0; }
 
-       
+       caption {font-style: italic;}
+
        th {background-color: fff;}
 
        tr {background-color: whitesmoke;}
+
+       table {
+    border-collapse: separate;
+    border-width:5px;	
+    border-style:none;
+    empty-cells: hide;
+}
 
 .intro {
         font-size: 1.35em;
