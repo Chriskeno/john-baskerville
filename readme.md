@@ -30,6 +30,10 @@ Each week we will build on this project as we take ypu through HTML and CSS. Thi
 30th November 2015
 
 + [version 6](https://Chriskeno.github.io/john-baskerville/john_baskerville_version6.html)- worked with CSS reset and restyled the Baskerville page
+ 
+7th December 2015
+
++ [version 7](https://Chriskeno.github.io/john-baskerville/john_baskerville_version7.html)- worked with CSS to make our pages more presentable
 
 
 
