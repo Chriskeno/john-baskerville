@@ -1,7 +1,7 @@
 John Baskerville Project
 ========================
 
-Each week we will build on this project as we take ypu through HTML and CSS. This exercise is part of the [IXD Belfast] (http://ixdbelfast.org) module - IXD101
+Each week we will build on this project as we take you through HTML and CSS. This exercise is part of the [IXD Belfast] (http://ixdbelfast.org) module - IXD101
 
 #Part 01 HTML
 
